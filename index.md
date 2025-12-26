@@ -2,7 +2,9 @@
 
 Essai.
 
-$x=X_qW_q(X_kW_k)^T$
+```math
+x=X_qW_q(X_kW_k)^T
+```
 
 ```rust
 fn main() {

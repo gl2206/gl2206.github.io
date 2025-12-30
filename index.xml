@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Essai on Guillaume Lebonvallet</title>
+    <link>https://gl2206.github.io/</link>
+    <description>Recent content in Essai on Guillaume Lebonvallet</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <atom:link href="https://gl2206.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IA03</title>
+      <link>https://gl2206.github.io/enseignement/ia03/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gl2206.github.io/enseignement/ia03/</guid>
+      <description>&lt;p&gt;Applications de l&amp;rsquo;IA et de l&amp;rsquo;IoT&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Présentation du fonctionnement d&amp;rsquo;une chaîne de traitement d&amp;rsquo;images par IA, embarquement de modèles d&amp;rsquo;IA sur cible embarquée et initiation aux techniques d&amp;rsquo;apprentissage par renforcement (matière à destination des apprentis)&lt;/li&gt;&#xA;&lt;li&gt;Encadrement des manipulations sur l&amp;rsquo;apprentissage d&amp;rsquo;un modèle de reconnaissance de gestes avec un accéléromètre et son implémentation sur cible embarquée (Arduino 33 Nano)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Leveraging Perceiver IO for Efficient Compression of Temporal Signals A Memory Constrained Approach</title>
+      <link>https://gl2206.github.io/publications/conf/icfnds24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gl2206.github.io/publications/conf/icfnds24/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LO02</title>
+      <link>https://gl2206.github.io/enseignement/lo02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gl2206.github.io/enseignement/lo02/</guid>
+      <description>&lt;p&gt;Principe et pratique de la programmation orientée objets&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Présentation de l&amp;rsquo;approche orientée objet pour la mise en oeuvre de projets logiciels via la conception détaillée en UML et le développement en Java d&amp;rsquo;une application&lt;/li&gt;&#xA;&lt;li&gt;Suivi de projet sur la conception et le développement d&amp;rsquo;une application graphique en Java, présentation de points non traités en cours (Javadoc, vue graphique) |&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Manifold-Based Geometric Exploration of Optimization Solutions</title>
+      <link>https://gl2206.github.io/publications/conf/maxent23/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gl2206.github.io/publications/conf/maxent23/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NF06</title>
+      <link>https://gl2206.github.io/enseignement/nf06/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gl2206.github.io/enseignement/nf06/</guid>
+      <description>&lt;p&gt;Pratique de la programmation&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Présentation des notions basiques de programmation (types, opérateurs, structures de contrôle, tableaux, fonctions, entrées/sorties) via les langages C et Python et la réalisation d&amp;rsquo;un projet combinant ces deux langages&lt;/li&gt;&#xA;&lt;li&gt;Encadrement des manipulations sur machine pour la mise en pratique des concepts vus en cours avec les deux langages cités précedemment et création d&amp;rsquo;un sujet de projet sur l&amp;rsquo;algorithme de Prim&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Perceiver IO Model for Efficient Vibration Signal Compression and Anomaly Detection</title>
+      <link>https://gl2206.github.io/publications/articles/essai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gl2206.github.io/publications/articles/essai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RE12</title>
+      <link>https://gl2206.github.io/enseignement/re12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gl2206.github.io/enseignement/re12/</guid>
+      <description>&lt;p&gt;Présentation des services déployés sur les infrastructures réseaux connectés à l&amp;rsquo;Internet depuis leur concepts et principes de conception protocolaire jusqu&amp;rsquo;aux implémentations de référence (TCP, UDP, ASN.1, DNS, LDAP et SNMP)&lt;/p&gt;&#xA;&lt;p&gt;Encadrement des manipulations de déployement des services DNS, LDAP et SNMP sur machine virtuelle Linux (Rocky Linux 9 &lt;em&gt;Blue Onyx&lt;/em&gt;) via des conteneurs Docker&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SY25</title>
+      <link>https://gl2206.github.io/enseignement/sy25/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gl2206.github.io/enseignement/sy25/</guid>
+      <description>&lt;p&gt;Objets connectés multimédia&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Présentation du fonctionnement d&amp;rsquo;une chaîne de traitement d&amp;rsquo;images, des réseaux de capteurs et des techniques d&amp;rsquo;intelligence artificielle utilisées en transmission de données&lt;/li&gt;&#xA;&lt;li&gt;Encadrement des manipulations sur deux projets guidés portant sur les techniques de localisation par trilatération via des ancres WiFi et d&amp;rsquo;acquisition d&amp;rsquo;images par caméra sur cible embarquée (Arduino 33 Nano), et création, encadrement et évaluation d&amp;rsquo;un projet en autonomie sur une solution de surveillance par détection de mouvement et transmission d&amp;rsquo;alarme via liaison sans-fil&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

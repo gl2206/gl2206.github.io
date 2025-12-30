@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conférences on Guillaume Lebonvallet</title>
+    <link>https://gl2206.github.io/publications/conf/</link>
+    <description>Recent content in Conférences on Guillaume Lebonvallet</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <atom:link href="https://gl2206.github.io/publications/conf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Leveraging Perceiver IO for Efficient Compression of Temporal Signals A Memory Constrained Approach</title>
+      <link>https://gl2206.github.io/publications/conf/icfnds24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gl2206.github.io/publications/conf/icfnds24/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Manifold-Based Geometric Exploration of Optimization Solutions</title>
+      <link>https://gl2206.github.io/publications/conf/maxent23/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gl2206.github.io/publications/conf/maxent23/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
